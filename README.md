@@ -33,7 +33,7 @@ Hi, I'm **Hutton Amison-Addy**.
     <img src="https://img.shields.io/badge/GitHub-Hutton%20Amison--Addy-3423A6?style=flat&logo=Github&logoColor=white" height="25" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hutton-amison-addy-48647b22b/">
+  <a href="https://www.linkedin.com/in/hutton-amison-addy-48647b22/">
     <img src="https://img.shields.io/badge/LinkedIn-Hutton%20Amison--Addy-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -47,13 +47,19 @@ Hi, I'm **Hutton Amison-Addy**.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,php,r,svelte,dart,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,php,r,dart" alt="Languages" />
 </p>
 
 ### Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,flutter,tailwind,bootstrap" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,svelte,flutter,tailwind,bootstrap" alt="Frameworks" />
+</p>
+
+### Markup & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Markup and styling" />
 </p>
 
 ### Databases
