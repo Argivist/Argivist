@@ -33,7 +33,7 @@ Hi, I'm **Hutton Amison-Addy**.
     <img src="https://img.shields.io/badge/GitHub-Hutton%20Amison--Addy-3423A6?style=flat&logo=Github&logoColor=white" height="25" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hutton-amison-addy-48647b22/">
+  <a href="https://www.linkedin.com/in/hutton-amison-addy-48647b22b/">
     <img src="https://img.shields.io/badge/LinkedIn-Hutton%20Amison--Addy-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   &nbsp;
