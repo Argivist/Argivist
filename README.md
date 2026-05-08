@@ -30,15 +30,15 @@ Hi, I'm **Hutton Amison-Addy**.
 
 <p align="center">
   <a href="https://github.com/Argivist/">
-    <img src="https://img.shields.io/badge/GitHub-Hutton%20Amison--Addy-3423A6?style=flat&logo=github&logoColor=white" height="25" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Hutton%20Amison--Addy-3423A6?style=flat&logo=Github&logoColor=white" height="25" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/hutton-amison-addy-48647b22b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hutton%20Amison--Addy-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Hutton%20Amison--Addy-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:hutton.amisonaddy2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hutton.amisonaddy2%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="25" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-hutton.amisonaddy2%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" height="25" alt="Email" />
   </a>
 </p>
 
