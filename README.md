@@ -13,10 +13,6 @@ Hi, I'm **Hutton Amison-Addy**.
 - 🧭 I like learning by building and experimenting with new ideas.
 - 💬 Feel free to connect if you're curious about any of these areas.
 
-## LinkedIn
-
-[Hutton Amison-Addy](https://www.linkedin.com/in/hutton-amison-addy-48647b22b/)
-
 ## GitHub Analytics
 
 <p align="center">
@@ -34,7 +30,7 @@ Hi, I'm **Hutton Amison-Addy**.
 
 <p align="center">
   <a href="https://github.com/Argivist/">
-    <img src="https://img.shields.io/badge/GitHub_Argivist-3423A6?style=flat&logo=github&logoColor=white" height="25" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Hutton%20Amison--Addy-3423A6?style=flat&logo=github&logoColor=white" height="25" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/hutton-amison-addy-48647b22b/">
