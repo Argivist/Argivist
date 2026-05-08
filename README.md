@@ -1,17 +1,19 @@
 🛸🚀🛰🎧🎓💻🪫📷
 
-# Argivist
-<h2 align="left">       こんにちは   🤗 </h2>
-<p>
+
+# Argivist 🐼
+
+
+
     <img src="https://komarev.com/ghpvc/?username=Argivist&color=71c7ec&style=flat" alt="profile-view-counter"/>
     </p>
 
     😶‍🌫️ I'm Hutton Amison-Addy but you can call  me Hutton 
 
-    🎓 A Computer Science Senior @ Ashesi University, Ghana
+    🎓 A Computer Science Graduate from Ashesi University, Ghana
 
 
-###** [Linkedin](https://www.linkedin.com/in/hutton-amison-addy-48647b22/) **
+### ** [Linkedin](https://www.linkedin.com/in/hutton-amison-addy-48647b22/) **
 
 ## About Me
 
@@ -21,7 +23,7 @@
         <p>
         My personal interests relate to space 🌌, science 🔬, and nature 🪴.
         But i am interested and currently invested in many fields of computer science that atracts me from <b>Artificual intellingence, Robotics and machine learning</b> to <b>web technologies and software engineering</b>.
-         I am also interested in <b>robotics 🤖 </b> and trying to delve a bit more into the engineering aspect of CS.
+         I am also interested in <b>robotics 🤖 </b> and trying to delve more into the engineering aspect of CS.
         Basically, I see something interesting, and I explore. 
         Feel free  to reach out if you're curious like me 🗺️.
             </p>
@@ -69,6 +71,9 @@
                                                                                                             <img src="https://skillicons.dev/icons?i=java"/>
                                                                                                                 &nbsp; &nbsp; &nbsp;
                                                                                                                     <img src="https://skillicons.dev/icons?i=cpp"/>
+
+&nbsp; &nbsp; &nbsp;
+                                                                                                                    <img src="https://skillicons.dev/icons?i=csharp"/>
                                                                                                                         &nbsp; &nbsp; &nbsp;
                                                                                                                             <img src="https://skillicons.dev/icons?i=js"/>
                                                                                                                                 &nbsp; &nbsp; &nbsp;
@@ -79,7 +84,7 @@
                                                                                                                                                 </p>
 
                                                                                                                                                 <p>
-                                                                                                                                                    <img src="https://skillicons.dev/icons?i=regex"/>
+                                                                                                                                                    <img src="https://skillicons.dev/icons?i=svelte"/>
                                                                                                                                                         &nbsp; &nbsp; &nbsp;
                                                                                                                                                             <img src="https://skillicons.dev/icons?i=dart"/>
                                                                                                                                                                 &nbsp; &nbsp; &nbsp;
