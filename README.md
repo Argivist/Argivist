@@ -56,6 +56,12 @@ Hi, I'm **Hutton Amison-Addy**.
   <img src="https://skillicons.dev/icons?i=nodejs,react,svelte,flutter,tailwind,bootstrap" alt="Frameworks" />
 </p>
 
+### Robotics Frameworks
+
+<p>
+  ROS, Gazebo, Isaac Sim, Nav2
+</p>
+
 ### Markup & Styling
 
 <p>
