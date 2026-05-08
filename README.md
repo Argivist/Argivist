@@ -59,7 +59,10 @@ Hi, I'm **Hutton Amison-Addy**.
 ### Robotics Frameworks
 
 <p>
-  ROS, Gazebo, Isaac Sim, Nav2
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/Gazebo-3C4C7A?style=flat&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat&logo=nvidia&logoColor=white" alt="Isaac Sim" />
+  <img src="https://img.shields.io/badge/Nav2-0A66C2?style=flat&logo=ros&logoColor=white" alt="Nav2" />
 </p>
 
 ### Markup & Styling
