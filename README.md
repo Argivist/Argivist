@@ -47,13 +47,13 @@ Hi, I'm **Hutton Amison-Addy** 😶‍🌫️.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,php,r,dart" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,php,r" alt="Languages" />
 </p>
 
 ### Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,svelte,flutter,tailwind,bootstrap,tauri" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,svelte,tailwind,bootstrap,tauri" alt="Frameworks" />
 </p>
 
 ### Robotics Frameworks
@@ -75,6 +75,12 @@ Hi, I'm **Hutton Amison-Addy** 😶‍🌫️.
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+</p>
+
+### Game Dev
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,blender" alt="Deployment tools" />
 </p>
 
 ### Deployments
