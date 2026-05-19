@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Argivist&color=71c7ec&style=flat" alt="Profile view counter" />
 </p>
 
-Hi, I'm **Hutton Amison-Addy**.
+Hi, I'm **Hutton Amison-Addy** 😶‍🌫️.
 
 🎓 Computer Science graduate from Ashesi University, Ghana.  
 🌌 I enjoy exploring space, science, nature, and cross-disciplinary computer science projects.
