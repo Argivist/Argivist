@@ -53,7 +53,7 @@ Hi, I'm **Hutton Amison-Addy** 😶‍🌫️.
 ### Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,svelte,flutter,tailwind,bootstrap" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,svelte,flutter,tailwind,bootstrap,tauri" alt="Frameworks" />
 </p>
 
 ### Robotics Frameworks
